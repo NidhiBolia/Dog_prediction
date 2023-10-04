@@ -1,9 +1,11 @@
 # Dog_prediction
 
-Overview
+Overview:-
+
 This project is a deep learning model that predicts the breed of a dog based on an input image of the dog's face. It uses Convolutional Neural Networks (CNNs) to analyze the visual features of the dog's face and make predictions. The model has been trained on a dataset of dog images obtained from Kaggle:-https://www.kaggle.com/c/dog-breed-identification/data
 
-Dataset
+Dataset:-
+
 The dataset used for training and testing the model is the "Dog Breed Identification" dataset from Kaggle. It contains thousands of labeled images of various dog breeds. You can download the dataset from the following Kaggle competition page: Dog Breed Identification.
 The dataset is organized into the following directories:
 train: Contains labeled images of different dog breeds for training the model.
@@ -21,6 +23,7 @@ You can install these dependencies using pip:
 pip install tensorflow keras numpy matplotlib opencv-python pandas
 
 Usage
+
 Clone this repository:
 git clone https://github.com/NidhiBolia/Dog_prediction.git
 
