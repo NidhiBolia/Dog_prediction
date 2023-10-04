@@ -22,8 +22,8 @@ pip install tensorflow keras numpy matplotlib opencv-python pandas
 
 Usage
 Clone this repository:
-git clone https://github.com/yourusername/dog-breed-prediction.git
-cd dog-breed-prediction
+git clone https://github.com/NidhiBolia/Dog_prediction.git
+
 
 Acknowledgments
 Kaggle for providing the "Dog Breed Identification" dataset.
